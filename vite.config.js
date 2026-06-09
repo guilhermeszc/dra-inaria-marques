@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/dra-inaria-marques/',
   build: {
     cssCodeSplit: false,
     rollupOptions: {
